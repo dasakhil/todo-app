@@ -1,4 +1,4 @@
-Todo List App
+
 This project is a simple Todo List application built with React. It allows users to create projects and manage todos within each project. Additionally, users can export the project summary as a gist on GitHub.
 
 Setup
